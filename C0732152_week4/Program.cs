@@ -42,6 +42,7 @@ namespace C0732152_week4
     }
 
 
+
     class Village
     {
         public bool isAstrildeHere;
